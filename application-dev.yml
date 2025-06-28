@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: BootProj11-RealTimeDI-AutoConfiguration-profiles
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: root
+    url: jdbc:mysql:///abc
+    username: root
